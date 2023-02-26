@@ -32,6 +32,7 @@ elif changeB == '2':
 # Vai usar dinheiro FICTICIO OU REAL = PRACTICE / REAL
 Iq.change_balance(changeBs) 
 
+
 #ESCOLHA O VALOR DE ENTRADA
 valorPR = input("Escolha o valor de entrada :")
 
