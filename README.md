@@ -30,7 +30,7 @@ pip install TA-Lib
 ## ☕ Running the project
 
 ```
-$ streamlit run app.py
+$ py run app.py
 ```
 ## 😄 Want to help keeping the project?<br>
 
